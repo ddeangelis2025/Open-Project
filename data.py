@@ -271,7 +271,6 @@ food_list = [
     "Doughnut",
     "Brownie",
     "Pudding",
-    "Ice cream",
     "Sorbet",
     "Gelato",
     "Coffee",
@@ -326,8 +325,7 @@ food_list = [
     "Nachos",
     "Gazpacho",
     "Clam",
-    "Fishcake",
-    "Fried rice"
+    "Fishcake"
 ]
 # Everyday Items
 everyday_list = [
