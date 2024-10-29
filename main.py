@@ -26,7 +26,7 @@ def draw_ui(scrambled_word, score):
     print("│" + Fore.LIGHTWHITE_EX + " Unscramble Game! ".center(width - 2) + Fore.LIGHTBLUE_EX + "│")
     print("│" + " " * (width - 2) + "│")
 
-    # Display the scrambled word
+    # Display the scrambled word.
     print("│" + Fore.LIGHTWHITE_EX + f" Scrambled Word: {scrambled_word} ".center(width + 3) + Fore.LIGHTBLUE_EX + "│")
 
     # Display score
